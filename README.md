@@ -8,7 +8,7 @@ A previsão de estoque é essencial para uma gestão eficiente, minimizando cust
 
 1. **Selecionar Dataset**: Escolha de um conjunto de dados adequado que contenha informações históricas de vendas, datas, produtos, entre outros fatores relevantes.
    
-2. **Construir e Treinar**: Construção do modelo preditivo utilizando o SageMaker Canvas. O modelo é treinado para aprender padrões históricos e fornecer previsões precisas.
+2. **Construir e Treinar**: Construção do modelo preditivo utilizando o SageMaker Canvas e técnicas de Machine Learning. O modelo é treinado para aprender padrões históricos e fornecer previsões precisas.
 
 3. **Analisar**: Avaliação dos resultados do modelo, verificando métricas de performance e identificando possíveis melhorias.
 
