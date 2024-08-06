@@ -32,11 +32,8 @@ A previsão de estoque é essencial para uma gestão eficiente, minimizando cust
 
 ## 🗂 Estrutura do Projeto
 
-- `dataset/`: Contém o conjunto de dados utilizado para o treinamento do modelo.
-- `models/`: Modelos treinados e salvos.
-- `notebooks/`: Notebooks Jupyter com análises e validações do modelo.
+- `dataset/`: Contém o conjunto de dados utilizado para o treinamento do modelo. O dataset utilizado para o treinamento do modelo foi o [dataset-1000-com-preco-promocional-e-renovacao-estoque.csv]
 - `results/`: Resultados e previsões geradas pelo modelo.
-- `src/`: Scripts principais do projeto.
 
 ## 💡 Como Funciona
 
