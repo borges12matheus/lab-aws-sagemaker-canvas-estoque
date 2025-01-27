@@ -55,4 +55,4 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com ❤️ por [Matheus Borges](https://github.com/borges12matheus).
+Desenvolvido por [Matheus Borges](https://github.com/borges12matheus).
